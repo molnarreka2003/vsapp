@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2003m\\source\\repos\\vsapp\\orai3\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\2003m\\source\\repos\\vsapp\\orai3\\WebApplication2\\WebApplication2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2003m\\source\\repos\\vsapp\\orai3\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\2003m\\source\\repos\\vsapp\\orai3\\WebApplication2\\WebApplication2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2003m\\source\\repos\\vsapp\\orai3\\WebApplication1\\WebApplication1.csproj",
-        "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\2003m\\source\\repos\\vsapp\\orai3\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\2003m\\source\\repos\\vsapp\\orai3\\WebApplication2\\WebApplication2.csproj",
+        "projectName": "WebApplication2",
+        "projectPath": "C:\\Users\\2003m\\source\\repos\\vsapp\\orai3\\WebApplication2\\WebApplication2.csproj",
         "packagesPath": "C:\\Users\\2003m\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2003m\\source\\repos\\vsapp\\orai3\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\2003m\\source\\repos\\vsapp\\orai3\\WebApplication2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\2003m\\AppData\\Roaming\\NuGet\\NuGet.Config",

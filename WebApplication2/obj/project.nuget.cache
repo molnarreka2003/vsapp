@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DRMnaIroJdCyutumnStaTnbSudgR7pSRiBrfGVoZkv6ce+ohO0uD+2H36OXjiyvHWTSaWEL85hhsY9ErjE0o0A==",
+  "dgSpecHash": "wB4CxKSlsK8pnPr6mPZ2Dj7QHn4OS0LMU/ybtUcRiaFs7dJcGFTouuE+wGz8k4hndjtXzrhM2tQ7NjAN6+HxIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\2003m\\source\\repos\\vsapp\\orai3\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\2003m\\source\\repos\\vsapp\\orai3\\WebApplication2\\WebApplication2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2003m\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
   ],
